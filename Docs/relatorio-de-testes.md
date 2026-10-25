@@ -4,7 +4,7 @@
 
 - Partição de equivalência: aplicada aos campos do formulário de novo lembrete.
 - Análise de valor limite: aplicada às validações de data, hora e campos obrigatórios.
-- Teste exploratório baseado em sessão: realizado com foco em cenários CRUD e heurísticas de validação funcional.
+- Teste exploratório baseado em sessão: realizado com o uso de heuristica
 
 
 ## 2. Artefatos utilizados
